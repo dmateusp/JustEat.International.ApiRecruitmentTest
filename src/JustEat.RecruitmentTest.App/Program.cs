@@ -11,7 +11,7 @@ namespace JustEat.RecruitmentTest.App
         public static void Main(string[] args)
         {
             Console.WriteLine("Press ANY key to exit...");
-            Console.ReadLine();
+            Console.ReadKey(true);
         }
     }
 }
