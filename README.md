@@ -37,7 +37,6 @@ The restaurants should be ordered from highest rating to lowest rating.
 - Feel free to use whatever testing, mocking or stubbing frameworks you prefer, along with any other packages you like.
 - Your code should be of production quality.
 - Clone our git repository locally and work on your solution
-- In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. Please send an email to tech.recruitment@just-eat.com with your **valid Google email address** so we can give you the correct upload permissions.
 
 ## User stories
 
