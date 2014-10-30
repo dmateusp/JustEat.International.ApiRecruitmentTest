@@ -27,7 +27,7 @@ The API requires you specify a set of valid request headers before it'll respond
 		Authorization: Basic VGVjaFRlc3RBUEk6dXNlcjI=
 		Host: api-interview.just-eat.com
 
-The task is to create a command line application using C# and Visual Studio 2012 that accepts a postcode as a parameter. The application should then display the following information about each restaurant that delivers to that postcode.
+The task is to create a command line application using C# and Visual Studio 2012 or later that accepts a postcode as a parameter. The application should then display the following information about each restaurant that delivers to that postcode.
 
 * Name
 * Rating
